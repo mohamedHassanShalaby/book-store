@@ -1,0 +1,49 @@
+.authors {
+    padding: 30px;
+}
+.authors-search-wrapper {
+    margin-bottom: 30px;
+}
+.authors-search-wrapper input {
+    width: 100%;
+    height: 50px;
+    border: 1px solid gray;
+    padding: 10px 20px;
+    font-size: 21px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+.authors-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.author{
+    width: 400px;
+    height: 365px;
+    border: 1px solid gray;
+    padding: 15px;
+    margin: 5px;
+    margin-bottom: 20px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+    background-color: #fff;
+    text-align: center;
+}
+.author-img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
