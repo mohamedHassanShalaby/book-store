@@ -20,4 +20,18 @@ https://github.com/mohamedHassanShalaby/book-store
 - 📖 Display of available books  
 - 🔍 Book details page  
 - ⚡ Fast and responsive user interface  
-- ♻️ Reusab
+- ♻️ Reusable React components  
+- 🎨 Simple, clean, and mobile-friendly design  
+- 🛒 Smooth navigation between pages  
+- 💡 Organized project structure
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **JavaScript (ES6)**
+- **CSS**
+- **React Router**
+
+
