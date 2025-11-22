@@ -1,21 +1,21 @@
-# 📚 Book Store Website
+📚 Book Store Website
 
 A simple and fast **Book Store** web application built with **React.js**.  
 The project focuses on clean UI, reusable components, and a smooth user experience.
 
 ---
 
-## 🚀 Live Demo
+🚀 Live Demo
 
-🔗 **View Website:**  
+🔗 View Website:   
 https://elegant-florentine-77373b.netlify.app/
 
-🔗 **GitHub Repository:**  
+🔗 GitHub Repository:   
 https://github.com/mohamedHassanShalaby/book-store
 
 ---
 
-## ✨ Features
+✨ Features
 
 - 📖 Display of available books  
 - 🔍 Book details page  
@@ -27,11 +27,12 @@ https://github.com/mohamedHassanShalaby/book-store
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-- **React.js**
-- **JavaScript (ES6)**
-- **CSS**
-- **React Router**
+- React.js
+- JavaScript (ES6)
+- CSS
+- React Router
+- Create React App
 
 
